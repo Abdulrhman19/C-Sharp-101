@@ -6,9 +6,9 @@ namespace C_101
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Number of students: ");
-            int numberOfStudents = int.Parse(Console.ReadLine());
-            String[] names = new string[numberOfStudents];
+            Console.Write("Number of students: ");
+            int numberOfStudents = Convert.ToInt32(Console.ReadLine());
+            string[] names = new string[numberOfStudents];
             int[] marks = new int[numberOfStudents];
 
             // 'numberOfStudents' must be a positive integer
@@ -24,10 +24,11 @@ namespace C_101
 
             Console.WriteLine();
 
+            Console.WriteLine("++ Student Details ++");
             for (int i = 0; i < numberOfStudents; i++)
             {
                 Console.WriteLine("Student ({0})", i + 1);
-                printStudentDetail(names[i], marks[i]);
+                printStudentDetails(names[i], marks[i]);
             }
         }
 
@@ -43,10 +44,11 @@ namespace C_101
             }
         }
 
-        static void printStudentDetail(String name, int mark)
+        static void printStudentDetails(String name, int mark)
         {
             Console.WriteLine("\t-Name: {0}", name);
             Console.WriteLine("\t-Grade: {0}", mark);
+            Console.WriteLine("\t-Passed or  Failed: {0}", checkStatus(mark));
             Console.WriteLine();    // Write a new empty line after each student
         }
 
