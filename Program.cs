@@ -7,7 +7,7 @@ namespace C_101
         {
 
             Console.Write("Number of students: ");
-            int numberOfStudents = Convert.ToInt32(Console.ReadLine());
+            var numberOfStudents = int.Parse(Console.ReadLine());
             string[] names = new string[numberOfStudents];
             int[] marks = new int[numberOfStudents];
 
