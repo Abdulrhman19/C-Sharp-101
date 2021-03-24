@@ -1,0 +1,13 @@
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\bin\Debug\netcoreapp3.1\C#101.exe
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\bin\Debug\netcoreapp3.1\C#101.deps.json
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\bin\Debug\netcoreapp3.1\C#101.runtimeconfig.json
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\bin\Debug\netcoreapp3.1\C#101.runtimeconfig.dev.json
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\bin\Debug\netcoreapp3.1\C#101.dll
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\bin\Debug\netcoreapp3.1\C#101.pdb
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\obj\Debug\netcoreapp3.1\C#101.csprojAssemblyReference.cache
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\obj\Debug\netcoreapp3.1\C#101.AssemblyInfoInputs.cache
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\obj\Debug\netcoreapp3.1\C#101.AssemblyInfo.cs
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\obj\Debug\netcoreapp3.1\C#101.csproj.CoreCompileInputs.cache
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\obj\Debug\netcoreapp3.1\C#101.dll
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\obj\Debug\netcoreapp3.1\C#101.pdb
+D:\Abdulrhman\Documents\Backup\Tutorials\C#\C#101\obj\Debug\netcoreapp3.1\C#101.genruntimeconfig.cache
