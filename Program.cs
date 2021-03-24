@@ -22,7 +22,7 @@ namespace C_101
                 Console.WriteLine("You must have at least 1 student!");
             }
 
-            Console.WriteLine(); // Add a newline after the loop
+            Console.WriteLine();
 
             for (int i = 0; i < numberOfStudents; i++)
             {
